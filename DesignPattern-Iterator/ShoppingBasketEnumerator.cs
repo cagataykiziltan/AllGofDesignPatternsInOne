@@ -7,9 +7,9 @@ namespace DesignPattern_Iterator
         private Product[] _productList;
         int _curentIndex = -1;
 
-        public ShoppingBasketEnumerator(Product[] urunList)
+        public ShoppingBasketEnumerator(Product[] productList)
         {
-            _productList = urunList;
+            _productList = productList;
         }
 
         //iterasyonda kalinan yer.
