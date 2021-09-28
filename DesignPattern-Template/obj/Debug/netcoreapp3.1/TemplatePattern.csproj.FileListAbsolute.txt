@@ -1,0 +1,11 @@
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.exe
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.deps.json
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.runtimeconfig.json
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.runtimeconfig.dev.json
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.dll
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.pdb
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.csprojAssemblyReference.cache
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.AssemblyInfoInputs.cache
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.AssemblyInfo.cs
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.dll
+C:\Users\26042028\Source\Repos\BuilderPattern\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.pdb

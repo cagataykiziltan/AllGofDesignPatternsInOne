@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ConsoleApp3\DesignPattern-State\bin\Debug\DesignPattern-State.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ConsoleApp3\DesignPattern-State\bin\Debug\DesignPattern-State.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ConsoleApp3\DesignPattern-State\bin\Debug\DesignPattern-State.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ConsoleApp3\DesignPattern-State\obj\Debug\DesignPattern-State.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ConsoleApp3\DesignPattern-State\obj\Debug\DesignPattern-State.pdb
+C:\Users\LENOVO\Desktop\ResearchCenter\DesignPatterns\Proje\PatternsGof\DesignPattern-State\bin\Debug\DesignPattern-State.exe.config
+C:\Users\LENOVO\Desktop\ResearchCenter\DesignPatterns\Proje\PatternsGof\DesignPattern-State\bin\Debug\DesignPattern-State.exe
+C:\Users\LENOVO\Desktop\ResearchCenter\DesignPatterns\Proje\PatternsGof\DesignPattern-State\bin\Debug\DesignPattern-State.pdb
+C:\Users\LENOVO\Desktop\ResearchCenter\DesignPatterns\Proje\PatternsGof\DesignPattern-State\obj\Debug\DesignPattern-State.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ResearchCenter\DesignPatterns\Proje\PatternsGof\DesignPattern-State\obj\Debug\DesignPattern-State.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ResearchCenter\DesignPatterns\Proje\PatternsGof\DesignPattern-State\obj\Debug\DesignPattern-State.exe
+C:\Users\LENOVO\Desktop\ResearchCenter\DesignPatterns\Proje\PatternsGof\DesignPattern-State\obj\Debug\DesignPattern-State.pdb

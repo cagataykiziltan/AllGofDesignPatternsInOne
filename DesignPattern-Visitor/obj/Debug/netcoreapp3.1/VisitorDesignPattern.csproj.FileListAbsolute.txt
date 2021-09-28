@@ -1,0 +1,11 @@
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.exe
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.deps.json
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.runtimeconfig.json
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.runtimeconfig.dev.json
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.dll
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.pdb
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.csprojAssemblyReference.cache
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.AssemblyInfo.cs
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.dll
+C:\Users\26042028\Source\Repos\BuilderPattern\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.pdb
