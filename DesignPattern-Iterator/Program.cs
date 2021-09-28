@@ -9,8 +9,8 @@ namespace DesignPattern_Iterator
         {
             var basket = new ShoppingBasket();
 
-            foreach (Product urun in basket)
-                Console.WriteLine("Product: {0}, Price {1}", urun.Name, urun.Price);
+            foreach (Product product in basket)
+                Console.WriteLine("Product: {0}, Price {1}", product.Name, product.Price);
 
             Console.ReadLine();
 
